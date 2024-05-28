@@ -7,6 +7,3 @@ The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) Da
 which is publicly available on the UCI Machine Learning Repository.
 It includes features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 
-- **Number of instances:** 569
-- **Number of features:** 30 (excluding the target variable)
-- **Target variable:** Diagnosis (M = malignant, B = benign)
